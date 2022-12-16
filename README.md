@@ -1,9 +1,5 @@
 ### Hi there, I'm Artiom 👋
 
-## My Websites:
-- https://apoalarmclock.com/
-
-
 <!--
 **Yashmerino/Yashmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
