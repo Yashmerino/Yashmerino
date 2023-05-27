@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software applications.\
+💡 &nbsp;I like to explore new technologies and develop applications.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Microservices, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I make YouTube videos :).\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
