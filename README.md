@@ -31,3 +31,4 @@
 <a href="https://www.linkedin.com/in/artiombozieac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://discord.com/invite/qyWFarPZgx"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/tiomapower_/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/Yashmerino/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
