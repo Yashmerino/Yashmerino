@@ -4,6 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop applications.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Microservices, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I make YouTube videos :).\
 ✉️ &nbsp;You can shoot me an email at yashmerino@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
 
@@ -23,6 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://www.youtube.com/@yashmerinodev"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/artiombozieac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://discord.com/invite/qyWFarPZgx"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href="https://leetcode.com/Yashmerino/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
