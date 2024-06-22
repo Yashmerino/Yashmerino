@@ -24,7 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCck-QH5C2w0JyIH2IJo6Ulw"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UC_NMf94A-KvaVEy06PQ31OQ"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/artiombozieac/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://discord.com/invite/qyWFarPZgx"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href="https://leetcode.com/Yashmerino/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
