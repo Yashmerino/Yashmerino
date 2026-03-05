@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop applications.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Microservices, and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at yashmerino@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
 
