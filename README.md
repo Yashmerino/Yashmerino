@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop applications.\
-✉️ &nbsp;You can shoot me an email at yashmerino@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at artiom.bozieac@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
 
 <img alt="Insane Coder" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" width=265 height=190 align="right"/>
